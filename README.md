@@ -1,7 +1,7 @@
 # Microsoft Stream URL Scraper
 
 This script scrapes all video urls on Microsoft Stream.
-It put all the urls in a single text file so you can easaly download the videos with [destreamer](https://github.com/snobu/destreamer)
+It put all the urls in a single text file so you can easily download the videos with [destreamer](https://github.com/snobu/destreamer)
 
 # How to use
 
